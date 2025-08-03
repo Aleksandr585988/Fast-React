@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+*.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code, PyCharm
+.vscode/
+.idea/
+
+# Node (если используешь React)
+node_modules/
+build/
+dist/
+npm-debug.log
+yarn-error.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
